@@ -1,0 +1,10 @@
+{
+  "name": "boj-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jaewook Ahn <ajw4586@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^3.0.4"
+  }
+}
